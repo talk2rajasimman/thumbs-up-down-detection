@@ -13,7 +13,7 @@ def GetClassName(data):
         return cl['name']
 
 # What model to download.
-MODEL_NAME = 'model'#'model_GPU_ssd_inception_02' #
+MODEL_NAME = 'model'
 PATH_TO_FROZEN_GRAPH = MODEL_NAME + '/frozen_inference_graph.pb'
 
 # List of the strings that is used to add correct label for each box.
