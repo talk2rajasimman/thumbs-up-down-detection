@@ -120,8 +120,6 @@ with detection_graph.as_default():
             
             count = 1
             
-            print(thumbs_up_frame_count,'--------',thumbs_down_frame_count,'----',no_hand_detected)
-            
             if frame == 31:
                 frame = 0
                 
