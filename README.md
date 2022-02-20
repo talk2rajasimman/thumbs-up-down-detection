@@ -4,7 +4,7 @@ Model Zoo
 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
 
-#### Here I used ssd_inception_v2_coco Coco model for custom training
+#### Here I used ssd_inception_v2_coco model for custom training
 
 #### dataset link
 
