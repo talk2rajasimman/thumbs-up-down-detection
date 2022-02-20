@@ -1,12 +1,30 @@
 # thumbs_up-down-detection
 
+Model Zoo
 
-#### Tensorflow 1.14 installation 
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
 
-https://c17hawke.github.io/tfod-setup/
-
-#### Here I used Faster RCNN Inception V2 Coco model for custom training
+#### Here I used ssd_inception_v2_coco Coco model for custom training
 
 #### dataset link
 
 https://sites.google.com/view/handgesturedb/home
+
+
+
+### Install required packages
+
+````
+pip freeze > requirements.txt
+
+````
+
+### Run on local  
+
+````
+python from_camera.py
+
+````
+
+
+
