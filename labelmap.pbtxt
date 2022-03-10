@@ -1,9 +1,0 @@
-item {
-  id: 1
-  name: 'thumbs_up'
-}
-
-item {
-  id: 2
-  name: 'thumbs_down'
-}
